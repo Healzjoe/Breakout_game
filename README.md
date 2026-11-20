@@ -33,5 +33,4 @@ A classic arcade-style **Breakout** game built in Python using the built-in `tur
 ## 🛠️ Built With
 * **Python 3**
 * **Turtle Graphics (`turtle`)**
-<img width="1356" height="659" alt="Capture" src="https://github.com/user-attachments/assets/8099716a-2792-44f3-a771-0458c2ab436d" />
-<img width="1356" height="659" alt="Capture" src="https://github.com/user-attachments/assets/c5f0c5f9-1045-4fcf-8ea3-240c3aafed40" />
+
